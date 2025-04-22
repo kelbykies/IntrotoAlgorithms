@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HashTable
+comment1.params=tbl_size\ base
+comment1.target=HashTable(int,\ int)
+comment1.text=----------------\ constructor\ -------------------------------
+comment2.params=keys\ numberOfkeys
+comment2.target=int\ linearProbe(java.lang.String[],\ int)
+comment2.text=---------------------linear\ and\ quadratic\ probing\ ----------
+comment3.params=key
+comment3.target=int\ insertLinear(java.lang.String)
+comment3.text=-------------------------------------------------
+comment4.params=keys\ numberOfkeys
+comment4.target=int\ quadraticProbe(java.lang.String[],\ int)
+comment4.text=-------------------------------------------------
+comment5.params=key
+comment5.target=int\ insertQuadratic(java.lang.String)
+comment5.text=----------------------------------------------------
+comment6.params=key\ numBase
+comment6.target=int\ hash(java.lang.String,\ int)
+comment6.text=----------------------------\ hash\ function\ ---------------------
+numComments=7

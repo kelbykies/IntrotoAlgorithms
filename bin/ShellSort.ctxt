@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=int\ insertionSort(int[])
+comment1.params=array
+comment1.target=int\ shellSort(int[])
+comment1.text=--------------------shell\ sort\ for\ arrays\ ----------------------------
+comment2.params=array
+comment2.target=int\ sedgeSort(int[])
+comment2.text=-----------------------\ sedgeSort\ -------------------------------------
+comment3.params=array
+comment3.target=int\ hibbardSort(int[])
+comment3.text=------------------------Hibbard----------------------------------------
+comment4.params=array
+comment4.target=int\ knuthSort(int[])
+comment5.params=array\ increments
+comment5.target=int\ basicSort(int[],\ int[])
+comment5.text=----------------------------basic\ increment\ sort\ ---------------------
+numComments=6

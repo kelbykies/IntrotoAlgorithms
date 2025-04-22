@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=theElement
+comment0.target=AvlNode(java.lang.Comparable)
+comment1.params=theElement\ lt\ rt
+comment1.target=AvlNode(java.lang.Comparable,\ AvlNode,\ AvlNode)
+numComments=2
